@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Linda! I'm currently working as a Software Engineer at SS8 Networks. 👩‍💻
+Hi, I'm Linda! I'm currently a software engineering grad student at San Jose State. 
